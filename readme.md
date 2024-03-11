@@ -3,7 +3,7 @@
 En el vasto mundo del comercio electrónico, cada clic, cada desplazamiento y cada compra cuentan una historia única. Esta narrativa revela los deseos, necesidades y hábitos de nuestros clientes. En este nuevo mundo digital, los datos son como un mapa y una brújula que nos guían hacia el éxito.
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1wQYUKsNLnEqNOecifrdTWSQ6MK-6mzZz/view?usp=sharing" alt="Logo del Proyecto" width="600" height="250">
+    <img src="https://drive.google.com/uc?id=1wQYUKsNLnEqNOecifrdTWSQ6MK-6mzZz" alt="Logo del Proyecto" width="600" height="250">
 </div>
 
 ## Tabla de Contenidos 📋
